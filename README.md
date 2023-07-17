@@ -1,12 +1,12 @@
 <p align="center">
     <a href="#readme">
-        <img alt="logo" width="50%" src="output/evolution-strategy.png">
+        <img alt="logo" width="50%" src="C:\Users\ASUS\Downloads\evolution-strategy.png">
     </a>
 </p>
 <p align="center">
-  <a href=""C:\Users\ASUS\Downloads\evolution-strategy.png""><img alt="MIT License" src="https://img.shields.io/badge/License-Apache--License--2.0-yellow.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/deeplearning-30--models-success.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/agent-23--models-success.svg"></a>
+  <a href=""C:\Users\ASUS\Downloads\evolution-strategy.png""><img alt="MIT License" src="C:\Users\ASUS\Downloads\evolution-strategy.png"></a>
+  <a href="#"><img src="C:\Users\ASUS\Downloads\evolution-strategy.png"></a>
+  <a href="#"><img src="C:\Users\ASUS\Downloads\evolution-strategy.png"></a>
 </p>
 
 ---
