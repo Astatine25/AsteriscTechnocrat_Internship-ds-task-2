@@ -1,4 +1,4 @@
-**Stock-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
+**Stock-Price-Prediction-Models**, Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations.
 
 ## Table of contents
   * [Models](#models)
@@ -13,10 +13,6 @@
     * [Results signal prediction](#results-signal-prediction)
     * [Results analysis](#results-analysis)
     * [Results simulation](#results-simulation)
-
-## Contents
-
-### Models
 
 #### [Deep-learning models](deep-learning)
  1. LSTM
@@ -106,8 +102,3 @@ I will cut the dataset to train and test datasets,
 2. Test dataset derived from last 30 days until end of the dataset
 
 So we will let the model do forecasting based on last 30 days, and we will going to repeat the experiment for 10 times. You can increase it locally if you want, and tuning parameters will help you by a lot.
-
-
-5. Portfolio optimization
-
-<img src="simulation/portfolio-optimization.png" width="40%" align="">
